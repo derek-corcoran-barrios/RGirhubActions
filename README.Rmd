@@ -1,0 +1,16 @@
+---
+title: "Test CI"
+output: github_document
+---
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/derek-corcoran-barrios/RGirhubActions/workflows/R-CMD-check/badge.svg)](https://github.com/derek-corcoran-barrios/RGirhubActions/actions)
+<!-- badges: end -->
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Test
+
+Ths is my first test
